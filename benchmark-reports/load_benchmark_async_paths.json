@@ -1,0 +1,80 @@
+{
+  "host": "47.118.28.102",
+  "timestamp": "2026-05-25T19:45:10",
+  "week_start": "2026-05-25",
+  "month": "2026-05",
+  "results": [
+    {
+      "name": "login",
+      "status": 200,
+      "elapsed_ms": 6262.1,
+      "note": ""
+    },
+    {
+      "name": "users_me",
+      "status": 200,
+      "elapsed_ms": 350.4,
+      "note": ""
+    },
+    {
+      "name": "profile",
+      "status": 200,
+      "elapsed_ms": 911.9,
+      "note": ""
+    },
+    {
+      "name": "schedule_today",
+      "status": 200,
+      "elapsed_ms": 88.7,
+      "note": ""
+    },
+    {
+      "name": "tree_weekly_fast",
+      "status": 200,
+      "elapsed_ms": 106.7,
+      "note": "ai_enrichment=pending"
+    },
+    {
+      "name": "tree_enrichment",
+      "status": 200,
+      "elapsed_ms": 285.9,
+      "note": ""
+    },
+    {
+      "name": "tree_image_wait_false",
+      "status": 200,
+      "elapsed_ms": 122.4,
+      "note": "cached=True status=ready"
+    },
+    {
+      "name": "tree_image_status",
+      "status": 200,
+      "elapsed_ms": 162.7,
+      "note": "cached=True status=ready"
+    },
+    {
+      "name": "fruit_image_wait_false",
+      "status": 200,
+      "elapsed_ms": 132.5,
+      "note": "cached=True status=ready"
+    },
+    {
+      "name": "fruit_image_status",
+      "status": 200,
+      "elapsed_ms": 302.0,
+      "note": "cached=True status=ready"
+    },
+    {
+      "name": "tree_image_refresh",
+      "status": 200,
+      "elapsed_ms": 9867.2,
+      "note": "cached=False status=ready"
+    },
+    {
+      "name": "fruit_image_refresh",
+      "status": 200,
+      "elapsed_ms": 243.4,
+      "note": "cached=False status=failed"
+    }
+  ]
+}
