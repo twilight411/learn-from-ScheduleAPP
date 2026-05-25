@@ -41,3 +41,10 @@
 | [07 缓存与面试](07-生图缓存机制与面试要点.md) | 综合问答 |
 
 数据出处：[benchmark-reports/api-load-benchmark-2026-05-25-round2.md](../benchmark-reports/api-load-benchmark-2026-05-25-round2.md)
+
+---
+
+## 面试前必读：6 条 Bullet 逐条拆解
+
+→ **[00b-简历 bullet 逐条拆解（面试深度版）](00b-简历bullet逐条拆解-面试深度版.md)**  
+含：每条「拆开怎么讲」、名词解释、**~10s 是什么意思**、高频追问与参考答案、90 秒串联话术、数字速查表。

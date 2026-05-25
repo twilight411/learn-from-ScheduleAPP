@@ -10,7 +10,8 @@
 
 ## 简历总览（推荐先看）
 
-→ **[00-简历-ScheduleApp性能优化总览](topics/00-简历-ScheduleApp性能优化总览.md)**：技术栈、Overview、6 条合并 bullet、关键词表。
+→ **[00-简历-ScheduleApp性能优化总览](topics/00-简历-ScheduleApp性能优化总览.md)**：技术栈、Overview、6 条合并 bullet、关键词表。  
+→ **[00b-简历 bullet 逐条拆解](topics/00b-简历bullet逐条拆解-面试深度版.md)**：每条怎么讲、面试官问什么、**~10s 含义**、90 秒串联话术。
 
 ## 仓库结构
 
